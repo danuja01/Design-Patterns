@@ -1,6 +1,6 @@
 package Template;
 
-public class Coffee extends Beverage{
+public class Coffee extends Beverage {
 	@Override
 	void brew() {
 		System.out.println("Add suger milk");
